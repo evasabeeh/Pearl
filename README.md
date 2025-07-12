@@ -9,6 +9,8 @@ A modern, responsive teacher management dashboard built with Next.js, TypeScript
 - Component-based architecture 
 - Accessibility considerations
 - Clean and modern UI/UX
+- Form Validation & Error handling
+- Modals added
 
 ## Getting Started
 

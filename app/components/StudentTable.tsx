@@ -17,7 +17,7 @@ export default function StudentTable() {
     return (
         <div>
             <div className="flex justify-between items-center mb-2">
-                <h3 className="text-sm font-medium">Student's Progress</h3>
+                <h3 className="text-sm font-medium">Student&apos;s Progress</h3>
                 <a href="#" className="text-sm text-[#5b7cfd] hover:underline">View all</a>
             </div>
             <div className="bg-white rounded-lg shadow border border-gray-200 overflow-x-auto">
